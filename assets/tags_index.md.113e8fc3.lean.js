@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./app.eed26049.js";const m=JSON.parse('{"title":"标签","description":"","frontmatter":{"title":"标签"},"headers":[],"relativePath":"tags/index.md"}'),n={name:"tags/index.md"};function r(s,o,c,i,d,p){return a(),t("div")}const f=e(n,[["render",r]]);export{m as __pageData,f as default};
