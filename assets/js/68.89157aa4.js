@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[68],{377:function(t,n,s){"use strict";s.r(n);var e=s(1),o=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[this._v('1、错误发生的前（如何做事）-浅谈"格物致知"\n在这里先引用《中庸》的')])])}),[],!1,null,null,null);n.default=o.exports}}]);
