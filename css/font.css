@@ -1,0 +1,20 @@
+@font-face {
+    font-family: ZhuZiAYuanJWD;
+    src: url(./../font/ZhuZiAWan.ttf);
+    font-display: swap;
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: CangErJinKai;
+    src: url(./../font/cangerjinkai.ttf) format("opentype");
+    font-display: swap;
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: Diphylleia;
+    src: url(./../font/Diphylleia.ttf) format("opentype");
+    font-display: swap;
+    font-weight: lighter;
+}
